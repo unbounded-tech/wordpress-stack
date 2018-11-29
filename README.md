@@ -1,4 +1,4 @@
-# swarm-visualizer stack
+# wordpress-stack
 
 ## env
 
